@@ -26,7 +26,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ejimenez123/shopcart-landing-page' }
+      { icon: 'github', link: 'https://github.com/CaribesTIC/shopcart-landing' }
     ]
   }
 })
