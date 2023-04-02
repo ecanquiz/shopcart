@@ -15,6 +15,8 @@ hero:
       link: https://github.com/CaribesTIC/shopcart-nuxt
 
 features:
+  - title: ShopCart
+    details: Andamiaje de un Carrito de Compras extraido del excelente curso `The Enjoyable Vue Store`, pero esta vez migrado a Nuxt, TailwindCss y TypeScript.
   - title: Nuxt
     details: Cree su próxima aplicación Vue.js con confianza usando Nuxt. Un framework de código abierto bajo licencia MIT que hace que el desarrollo web sea simple y poderoso.
   - title: Pinia

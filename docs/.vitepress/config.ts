@@ -9,8 +9,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'CaribesTic', link: 'https://caribestic.github.io/' },
+      { text: 'The Enjoyable Vue Store', link: 'https://vueschool.io/courses/pinia-the-enjoyable-vue-store/' },      
       { text: 'Nuxt', link: 'https://nuxt.com/' },
-      { text: 'Pinia', link: 'https://pinia.vuejs.org/' },
+      { text: 'Pinia', link: 'https://pinia.vuejs.org/' },     
       { text: 'TailwindCss', link: 'https://tailwindcss.com/' },
       { text: 'TypeScript', link: 'https://www.typescriptlang.org/' }
     ],
