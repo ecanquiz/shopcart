@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: Scaffolding
       link: https://github.com/CaribesTIC/shopcart-nuxt
+    - theme: alt
+      text: ecanquiz
+      link: https://ecanquiz.github.io/
 
 features:
   - title: ShopCart
