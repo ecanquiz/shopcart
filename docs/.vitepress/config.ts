@@ -7,8 +7,10 @@ export default defineConfig({
   base: '/shopcart/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/mylogo.png',  
+    siteTitle: 'ShopCart',
     nav: [
-      { text: 'CaribesTic', link: 'https://caribestic.github.io/' },
+      { text: 'ecanquiz', link: 'https://ecanquiz.github.io/' },
       { text: 'The Enjoyable Vue Store', link: 'https://vueschool.io/courses/pinia-the-enjoyable-vue-store/' },      
       { text: 'Nuxt', link: 'https://nuxt.com/' },
       { text: 'Pinia', link: 'https://pinia.vuejs.org/' },     
@@ -27,7 +29,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/CaribesTIC/shopcart' }
+      { icon: 'github', link: 'https://github.com/ecanquiz/shopcart' }
     ]
   }
 })
